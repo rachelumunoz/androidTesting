@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/rachelmunoz/Downloads/Ex_Files_Effective_Android_Testing_Mobile/Exercise Files/Ch02/02_01/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/rachelmunoz/Downloads/Ex_Files_Effective_Android_Testing_Mobile/Exercise Files/Ch02/02_01/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d3bc36239184f59f9fe79a39be03a956033cc64e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rachelmunoz/.android/build-cache/b9cbad3071ca9932fc1450c593f824b506f7cd4b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/rachelmunoz/Downloads/Ex_Files_Effective_Android_Testing_Mobile/Exercise Files/Ch02/02_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2743b47813d263c9e5e0921f72c4f676b8798b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rachelmunoz/Downloads/Ex_Files_Effective_Android_Testing_Mobile/Exercise Files/Ch02/02_01/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0935b8a636f4faf38f30b4211fecdaba77b564ff">
+        <dex dex="/Users/rachelmunoz/Downloads/Ex_Files_Effective_Android_Testing_Mobile/Exercise Files/Ch02/02_01/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ea1ed945e836eb7e80822060314a2ad95bde0208/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rachelmunoz/.android/build-cache/ada3e876db43e2933dbe67740ff7698fd9aee2b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rachelmunoz/Downloads/Ex_Files_Effective_Android_Testing_Mobile/Exercise Files/Ch02/02_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b928e526916b1fc41a38bb40dc018418cb081b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rachelmunoz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/rachelmunoz/Downloads/Ex_Files_Effective_Android_Testing_Mobile/Exercise Files/Ch02/02_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_15e2e81a0b55d52bca58710846dbe927ec222f2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rachelmunoz/.android/build-cache/c152175af4cfda18988da4a468ca387680f26025/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/rachelmunoz/Downloads/Ex_Files_Effective_Android_Testing_Mobile/Exercise Files/Ch02/02_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a62b7b31f7b2d6fa5d64c5bf69f662d4100636c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rachelmunoz/.android/build-cache/07dff81388c8aba30b38dc8aba6d2c42b2540d80/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/rachelmunoz/Downloads/Ex_Files_Effective_Android_Testing_Mobile/Exercise Files/Ch02/02_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ea1639c44c462e6c42556e8f4a93633a3979c6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rachelmunoz/.android/build-cache/627842368df28fd43145eab1a7eac9f70f1b895f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/rachelmunoz/Downloads/Ex_Files_Effective_Android_Testing_Mobile/Exercise Files/Ch02/02_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd85320a8b92d4e6b93801e06ecd19202ccfad9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rachelmunoz/.android/build-cache/07fd2fe79409604fc720e727eac8071930c6db52/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/rachelmunoz/Downloads/Ex_Files_Effective_Android_Testing_Mobile/Exercise Files/Ch02/02_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea48bb6183c62d7284da1f41963b971b26fb650f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rachelmunoz/.android/build-cache/f803f8efb0631d3ec5f3b219c833c2f39bef57c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/rachelmunoz/Downloads/Ex_Files_Effective_Android_Testing_Mobile/Exercise Files/Ch02/02_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dd93a2f5188fd7bb04406497aaa6d66e0dbaeb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rachelmunoz/.android/build-cache/5462c2caa1cc157b6a76d28ea30e56d7d13c0423/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/rachelmunoz/Downloads/Ex_Files_Effective_Android_Testing_Mobile/Exercise Files/Ch02/02_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bbeac940ced9045ebb5d21cabf57e95d462c380/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/rachelmunoz/.android/build-cache/4867e388d04b8b8196bf3841a74ebdfeeed83112/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/rachelmunoz/Downloads/Ex_Files_Effective_Android_Testing_Mobile/Exercise Files/Ch02/02_01/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bde262f11d85ec2f26ef845860732664037a3d45/classes.dex" />
+    </item>
+
+</items>
