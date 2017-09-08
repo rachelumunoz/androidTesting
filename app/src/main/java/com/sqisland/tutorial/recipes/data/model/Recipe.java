@@ -54,5 +54,9 @@ public class Recipe {
 
 		return new Recipe(id, title, descBuilder.toString());
 	}
+
+	public String getId() {
+		return mId;
+	}
 }
 

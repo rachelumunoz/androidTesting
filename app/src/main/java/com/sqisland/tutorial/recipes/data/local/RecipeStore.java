@@ -9,7 +9,9 @@ import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  * Created by rachelmunoz on 9/5/17.
@@ -17,6 +19,7 @@ import java.util.List;
 
 public class RecipeStore {
 	public final List<Recipe> mRecipes = new ArrayList<>();
+	private final Map<String, Recipe> map = new HashMap<>();
 
 	public RecipeStore(Context context, String directory){
 		List<InputStream> streams = getAssetStreams(context.getAssets(), directory);
@@ -26,6 +29,7 @@ public class RecipeStore {
 
 			if (recipe != null){
 				mRecipes.add(recipe);
+				map.put(recipe.getId(), recipe);
 			}
 		}
 	}
@@ -55,6 +59,10 @@ public class RecipeStore {
 		} catch (IOException e) {
 			return new String[0];
 		}
+	}
+
+	public Recipe getRecipe(String id) {
+		return map.get(id);
 	}
 }
 
